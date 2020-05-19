@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/flexbox/static/css/main.65ca5329.chunk.css",
+    "main.js": "/flexbox/static/js/main.827a781a.chunk.js",
+    "main.js.map": "/flexbox/static/js/main.827a781a.chunk.js.map",
+    "runtime-main.js": "/flexbox/static/js/runtime-main.56fd64ac.js",
+    "runtime-main.js.map": "/flexbox/static/js/runtime-main.56fd64ac.js.map",
+    "static/js/2.1f6574c5.chunk.js": "/flexbox/static/js/2.1f6574c5.chunk.js",
+    "static/js/2.1f6574c5.chunk.js.map": "/flexbox/static/js/2.1f6574c5.chunk.js.map",
+    "index.html": "/flexbox/index.html",
+    "precache-manifest.45368c9a9b0ea26bdc4cca639bd34373.js": "/flexbox/precache-manifest.45368c9a9b0ea26bdc4cca639bd34373.js",
+    "service-worker.js": "/flexbox/service-worker.js",
+    "static/css/main.65ca5329.chunk.css.map": "/flexbox/static/css/main.65ca5329.chunk.css.map",
+    "static/js/2.1f6574c5.chunk.js.LICENSE": "/flexbox/static/js/2.1f6574c5.chunk.js.LICENSE",
+    "static/media/LICENSE": "/flexbox/static/media/LICENSE.7676693a.bin",
+    "static/media/README.md": "/flexbox/static/media/README.a4b237d0.md",
+    "static/media/logo.svg": "/flexbox/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56fd64ac.js",
+    "static/js/2.1f6574c5.chunk.js",
+    "static/css/main.65ca5329.chunk.css",
+    "static/js/main.827a781a.chunk.js"
+  ]
+}
